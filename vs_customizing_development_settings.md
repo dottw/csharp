@@ -2,7 +2,7 @@
 
 ##顯示行號##
   Options -> Text Editor -> All Languages -> General -> Display -> 勾選 line numbers
-##顯示空白##
+##顯示空白區域##
 
 ##參考資源##
 + [mrkt 的程式學習筆記](http://kevintsengtw.blogspot.tw/2015/02/visual-studio-part1.html)
