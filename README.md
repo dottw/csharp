@@ -1,6 +1,6 @@
 #C# 筆記#
 
-##資料結構##
+##Collections(集合)##
 + Dictionary
 
 ##執行緒##
