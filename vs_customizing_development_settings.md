@@ -2,6 +2,7 @@
 
 ##顯示行號##
   Options -> Text Editor -> All Languages -> General -> Display -> 勾選 line numbers
+  
 ##顯示空白區域##
 
 ##參考資源##
