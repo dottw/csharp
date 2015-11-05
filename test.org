@@ -6,7 +6,11 @@ e^{i\pi} = -1
 
 ** Java code
 #+BEGIN_SRC java -n -r
-using System;
+import java.io.DataInputStream;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello! World!");
