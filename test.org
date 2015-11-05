@@ -5,6 +5,7 @@
 e^{i\pi} = -1
 
 #+BEGIN_SRC java -n -r
+using System;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello! World!");
@@ -12,10 +13,29 @@ public class HelloWorld {
 }
 #+END_SRC
 
-#+BEGIN_SRC c# -n -r
+#+BEGIN_SRC csharp -n -r
 public class HelloWorld {
     public static void main(String[] args) {
         Console.WriteLine("Hello! World!");
+    }
+}
+#+END_SRC
+
+#+BEGIN_SRC csharp -n -r
+// A Hello World! program in C#.
+using System;
+namespace HelloWorld
+{
+    class Hello 
+    {
+        static void Main() 
+        {
+            Console.WriteLine("Hello World!");
+
+            // Keep the console window open in debug mode.
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
+        }
     }
 }
 #+END_SRC
