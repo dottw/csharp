@@ -1,9 +1,10 @@
 #+TITLE: Latex test
 
-* Test1
-
+* Test
+** Latex test
 e^{i\pi} = -1
 
+** Java code
 #+BEGIN_SRC java -n -r
 using System;
 public class HelloWorld {
@@ -13,6 +14,7 @@ public class HelloWorld {
 }
 #+END_SRC
 
+** C# code
 #+BEGIN_SRC csharp -n -r
 public class HelloWorld {
     public static void main(String[] args) {
