@@ -1,0 +1,10 @@
+#+TITLE: Boxing and Unboxing
+* 術語
+  block（區塊） \\
+  chunk（大塊記憶體）\\
+  allocate（配置） \\
+  deallocate（歸還） \\
+  release, free（釋放） \\
+
+* 參考資料
+  + [[https://msdn.microsoft.com/zh-tw/library/yz2be5wk.aspx][Boxing 和 Unboxing (C# 程式設計手冊)]]
